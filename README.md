@@ -11,6 +11,6 @@ Class multiplier has a function to multiply two variables. Implement this using 
 function can multiply variables for Same Datatype.
 
 Program 4:
-1.Class "Account" has the provision to accept multiple account numbers from a single person and store the balance of each account.
+Class "Account" has the provision to accept multiple account numbers from a single person and store the balance of each account.
 Member function "transfer" can transfer the balance of one account to another. Write a C++ program to implement the same using the concept 
 of passing the object of a class as a function parameter. Practice the program by passing the object once by value, once by address and once by reference.
